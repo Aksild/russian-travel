@@ -1,0 +1,19 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 48px 24px;
+}
+
+@media all and (max-width:765px) {
+    .footer {
+        margin: 0 24px 24px;
+        flex-direction: column;
+    }
+}
+
+@media all and (max-width:583px) {
+    .footer {
+        margin: 0 118px 16px 24px;
+    }
+}

@@ -1,0 +1,4 @@
+.place__paragraphs {
+    grid-column: auto;
+    grid-row: auto;
+}

@@ -1,0 +1,13 @@
+.place__url {
+    grid-column: auto;
+    grid-row: auto;
+    align-self: end;
+    padding-bottom: 48px;
+}
+
+@media all and (max-width: 583px) {
+    .place__url {
+        padding:0 16px 32px;
+    }
+    
+}

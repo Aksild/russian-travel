@@ -1,0 +1,20 @@
+.place__paragraph {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #FFFFFF; 
+    max-width: 484px;
+    margin: 0;
+} 
+
+@media all and (max-width: 768px) {
+    .place__paragraph {
+        font-size: 16px;
+        line-height: 1.6;
+    }    
+}
+
+@media all and (max-width: 583px) {
+    .place__paragraph {
+        padding:32px 16px 25px;
+    }  
+}
