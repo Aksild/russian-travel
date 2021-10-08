@@ -5,6 +5,7 @@
     line-height: 1.4;
     letter-spacing: 1.5px;
     justify-self: start;
+    font-weight: 400;
 }
 
 @media all and (max-width: 768px) {

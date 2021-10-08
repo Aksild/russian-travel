@@ -2,12 +2,12 @@
     color: #FFFFFF;
     font-size: 96px;
     line-height: 1.04;
-    font-family: Inter Bold;
     margin: auto;
     justify-self: center;
     align-self: center;
     max-width: 720px;
     text-align: center;
+    font-weight: 900;
 }
 
 @media all and (max-width: 650px) {

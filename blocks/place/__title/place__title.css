@@ -2,12 +2,12 @@
     color: #FFFFFF;
     font-size: 72px;
     line-height: 1.06;
-    font-family: Inter bold;
     grid-column: auto;
     grid-row: auto;
     align-self: end;
     margin: 0;
     padding-bottom: 48px;
+    font-weight: 900;
 }
 
 @media all and (max-width: 768px) {

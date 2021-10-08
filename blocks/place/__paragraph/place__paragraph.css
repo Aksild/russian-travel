@@ -18,3 +18,7 @@
         padding:32px 16px 25px;
     }  
 }
+
+.place__paragraph:last-of-type {
+    padding-top: 26px;
+}
