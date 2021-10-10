@@ -2,4 +2,4 @@
 ## Описание проекта
 Третья проектная работа по курсу Яндекс-практикум. В данной работе используется flexbox верстка, Grid Layout, адаптация под разные разрешения экрана.
 ## Сылка на сайт
-https://aksild.github.io/yet-another-project/
+https://aksild.github.io/russian-travel/

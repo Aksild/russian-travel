@@ -1,53 +1,48 @@
-.lead__title{
-    color: #FFFFFF;
-    font-size: 96px;
-    line-height: 1.04;
-    margin: auto;
-    justify-self: center;
-    align-self: center;
-    max-width: 720px;
-    text-align: center;
-    font-weight: 900;
+.lead__title {
+  color: #ffffff;
+  font-size: 96px;
+  line-height: 1.04;
+  margin: auto;
+  justify-self: center;
+  align-self: center;
+  max-width: 720px;
+  text-align: center;
+  font-weight: 900;
 }
 
 @media all and (max-width: 650px) {
-    .lead__title {
-        font-size: 80px;
-        line-height: 1.04;
-    }
-} 
+  .lead__title {
+    font-size: 80px;
+  }
+}
 
 @media all and (max-width: 540px) {
-    .lead__title {
-        font-size: 65px;
-        line-height: 1.04;
-    }
-} 
+  .lead__title {
+    font-size: 65px;
+  }
+}
 
 @media all and (max-width: 440px) {
-    .lead__title {
-        font-size: 55px;
-        line-height: 1.04;
-    }
-} 
+  .lead__title {
+    font-size: 55px;
+  }
+}
 
 @media all and (max-width: 380px) {
-    .lead__title {
-        font-size: 50px;
-        line-height: 1.04;
-    }
-} 
+  .lead__title {
+    font-size: 50px;
+  }
+}
 
 @media all and (max-width: 337px) {
-    .lead__title {
-        font-size: 45px;
-        line-height: 1.1;
-    } 
+  .lead__title {
+    font-size: 45px;
+    line-height: 1.1;
+  }
 }
 
 @media all and (max-width: 320px) {
-    .lead__title {
-        font-size: 40px;
-        line-height: 1.1;
-    } 
+  .lead__title {
+    font-size: 40px;
+  }
 }

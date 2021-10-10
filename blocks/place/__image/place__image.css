@@ -1,5 +1,5 @@
 .place__image {
-    width: 100%;
-    grid-column: auto;
-    grid-row: auto;
+  width: 100%;
+  grid-column: auto;
+  grid-row: auto;
 }

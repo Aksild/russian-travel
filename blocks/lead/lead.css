@@ -1,7 +1,13 @@
-.lead{
-    display: grid;
-    justify-content: center;
-    align-content: center;
-    margin: auto;
-    max-width: 984px;
+.lead {
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  margin: auto;
+  max-width: 984px;
+}
+
+@media all and (max-width: 1024px) {
+  .lead {
+    max-width: 928px;
+  }
 }

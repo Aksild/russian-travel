@@ -1,18 +1,18 @@
-.header{
-    display: flex;
-    justify-content: space-between;
-    align-items: end;
-    padding:28px 48px 56px;
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  padding: 28px 48px 56px;
 }
 
 @media all and (max-width: 768px) {
-    .header{
-        padding:28px 24px 48px;
-    }
+  .header {
+    padding: 28px 24px 48px;
+  }
 }
 
 @media all and (max-width: 320px) {
-    .header{ 
-        padding:16px 16px 48px;
-    }
+  .header {
+    padding: 16px 16px 48px;
+  }
 }
