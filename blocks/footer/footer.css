@@ -8,12 +8,12 @@
 @media all and (max-width: 768px) {
   .footer {
     max-width: 720px;
+    margin: 0 24px 24px;
   }
 }
 
 @media all and (max-width: 765px) {
   .footer {
-    margin: 0 24px 24px;
     flex-direction: column;
   }
 }
@@ -21,7 +21,7 @@
 @media all and (max-width: 583px) {
   .footer {
     margin-left: 16px;
-   align-items: start;
+    align-items: start;
   }
 }
 

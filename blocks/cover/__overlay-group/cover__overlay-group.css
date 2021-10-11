@@ -1,0 +1,11 @@
+.cover__overlay-group {
+  grid-column: 1/2;
+  grid-row: 1/2;
+  display: grid;
+  justify-content: stretch;
+  align-items: stretch;
+}
+
+.cover__overlay-group:hover .cover__overlay {
+  opacity: 0.8;
+}

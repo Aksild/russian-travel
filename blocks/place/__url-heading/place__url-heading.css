@@ -4,6 +4,7 @@
   color: #aaaaaa;
   letter-spacing: 2px;
   margin: 0;
+  padding-bottom: 12px;
 }
 
 @media all and (max-width: 768px) {

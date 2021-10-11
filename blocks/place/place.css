@@ -1,8 +1,9 @@
 .place {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-template-rows: 0.5fr 1fr;
+  grid-template-rows: auto;
   column-gap: 40px;
+  margin-top: 80px;
 }
 
 @media all and (max-width: 1024px) {
@@ -11,10 +12,14 @@
   }
 }
 
+@media all and (max-width: 768px) {
+  .place {
+    margin-top: 73px;
+  }
+}
 @media all and (max-width: 583px) {
   .place {
     grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-    grid-template-rows: auto;
-    padding-bottom: 50px;
+    margin-top: 50px;
   }
 }
