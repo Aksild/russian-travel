@@ -3,7 +3,7 @@
   grid-template-rows: 1fr;
   grid-template-columns: 1fr;
   justify-content: stretch;
-  align-content: stretch;
+  align-items: stretch;
   margin: 92px auto;
   max-width: 1184px;
 }

@@ -4,6 +4,7 @@
   grid-column: 1/2;
   color: #ffffff;
   text-decoration: none;
-  justify-self: center;
-  align-self: center;
+  display: grid;
+  align-content: center;
+  justify-content: center;
 }
